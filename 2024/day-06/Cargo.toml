@@ -1,10 +1,11 @@
 [package]
-name = "day-03"
+name = "day-06"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-regex = "1.11"
+itertools = "0.13"
+rustc-hash = "*"
 
 [[bin]]
 name = "part1"
