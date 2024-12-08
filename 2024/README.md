@@ -27,3 +27,7 @@ Part 1: 25 min, Part 2: 10 min
 ## Day 7
 
 Part 1: 15 min, Part 2: 1 min
+
+## Day 8
+
+Part 1: 25 min, Part 2: 5 min
