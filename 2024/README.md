@@ -38,3 +38,9 @@ Part 1: 15 min, Part 2: 45 min
 
 I thought I had a nice solution for Part 2, but debugging it was hell.
 In the end I just used the obvious suboptimal, but at least working, algorithm.
+
+## Day 10
+
+Part 1: 15 min, Part 2: 1 min
+
+Wow that part 2 was suprisingly simple, turn a single Set into a List and done.
