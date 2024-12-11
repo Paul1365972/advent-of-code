@@ -1,5 +1,4 @@
 use itertools::Itertools;
-use rustc_hash::FxHashSet;
 
 const DIRS: [(isize, isize); 4] = [(0, -1), (1, 0), (0, 1), (-1, 0)];
 

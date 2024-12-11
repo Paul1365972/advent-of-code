@@ -39,7 +39,7 @@ fn main() {
             }
         }
         if fixed {
-        sum += update[(update.len() - 1) / 2] as usize;
+            sum += update[(update.len() - 1) / 2] as usize;
         }
     }
 

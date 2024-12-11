@@ -13,12 +13,7 @@ fn main() {
         height,
     };
 
-    let directions = [
-        (1, 1),
-        (1, -1),
-        (-1, 1),
-        (-1, -1),
-    ];
+    let directions = [(1, 1), (1, -1), (-1, 1), (-1, -1)];
 
     let mut count = 0;
     for i in 1..width as isize {
