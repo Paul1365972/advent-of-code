@@ -48,3 +48,7 @@ Wow that part 2 was suprisingly simple, turn a single Set into a List and done.
 ## Day 11
 
 Part 1: 5 min, Part 2: 5 min
+
+## Day 12
+
+Part 1: 10 min, Part 2: 40 min
