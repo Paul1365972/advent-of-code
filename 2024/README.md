@@ -52,3 +52,12 @@ Part 1: 5 min, Part 2: 5 min
 ## Day 12
 
 Part 1: 10 min, Part 2: 40 min
+
+## Day 13
+
+Part 1: 30 min, Part 2: 5 min
+
+Parsing took waaay to long, all that time and it's not even pretty or performant.
+
+Part 2 was predictable, but exciting.
+Had to check to make sure that solutions are unique, but who would have thought that the linear algebra classes would be useful someday?!
