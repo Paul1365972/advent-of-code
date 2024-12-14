@@ -61,3 +61,12 @@ Parsing took waaay to long, all that time and it's not even pretty or performant
 
 Part 2 was predictable, but exciting.
 Had to check to make sure that solutions are unique, but who would have thought that the linear algebra classes would be useful someday?!
+
+## Day 14
+
+Part 1: 15 min, Part 2: ? min
+
+Parsing went way better this time around, but I forgot that Rust's unsigned types use remainder and not modulus, that took some time to find out.
+
+Part 2 was so different that I nearly wanted to check each image by hand, but luckily my other idea with RLE worked out.
+One of my favorite problems yet!
