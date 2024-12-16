@@ -2,6 +2,8 @@
 
 First Advent of Code I am participating in.
 
+All problems were solved without external help (AI, Forums, etc.), with the exception of the Rust documentation.
+
 ## Day 1/2/3
 
 Total: ~ 100 min
@@ -69,4 +71,16 @@ Part 1: 15 min, Part 2: ? min
 Parsing went way better this time around, but I forgot that Rust's unsigned types use remainder and not modulus, that took some time to find out.
 
 Part 2 was so different that I nearly wanted to check each image by hand, but luckily my other idea with RLE worked out.
-One of my favorite problems yet!
+One of my favorite problems yet, although sadly also the first problem for which I needed external assistance.
+
+## Day 15
+
+Part 1: 25 min, Part 2: 20 min
+
+## Day 16
+
+Part 1: 35 min, Part 2: 10 min
+
+I initally wanted to use A*, but I am not sure if there even is a good heuristic for this problem, so Dijkstra's it is.
+
+Part 2 was easier than expected, I was prepared for the worst.
