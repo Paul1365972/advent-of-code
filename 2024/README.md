@@ -92,3 +92,9 @@ Part 1: 25 min, Part 2: ~150 min
 Tried the naive brute force approach for part 2 and checked in the range of 0 to 2^32-1, but after finally analyzing the instructions is became very clear this would never work.
 
 Also the second problem where I had to ask for help.
+
+## Day 18
+
+Part 1: 20 min, Part 2: 5 min
+
+I very much expected the second problem to be pathfinding with the twist that the map changes every step, but just having to check until a path is blocked was kind of disappointing.
