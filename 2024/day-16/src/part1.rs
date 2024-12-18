@@ -39,8 +39,12 @@ fn main() {
             }
         }
     }
-    
-    let score = -*Direction::ALL.into_iter().flat_map(|dir| best.get(&(end_pos, dir))).max().unwrap();
+
+    let score = -*Direction::ALL
+        .into_iter()
+        .flat_map(|dir| best.get(&(end_pos, dir)))
+        .max()
+        .unwrap();
     println!("Result: {score}");
 }
 
@@ -53,7 +57,12 @@ enum Direction {
 }
 
 impl Direction {
-    const ALL: [Direction; 4] = [Direction::East, Direction::South, Direction::West, Direction::North];
+    const ALL: [Direction; 4] = [
+        Direction::East,
+        Direction::South,
+        Direction::West,
+        Direction::North,
+    ];
 
     fn to_dir(&self) -> (i32, i32) {
         match self {

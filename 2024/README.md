@@ -84,3 +84,11 @@ Part 1: 35 min, Part 2: 10 min
 I initally wanted to use A*, but I am not sure if there even is a good heuristic for this problem, so Dijkstra's it is.
 
 Part 2 was easier than expected, I was prepared for the worst.
+
+## Day 17
+
+Part 1: 25 min, Part 2: ~150 min
+
+Tried the naive brute force approach for part 2 and checked in the range of 0 to 2^32-1, but after finally analyzing the instructions is became very clear this would never work.
+
+Also the second problem where I had to ask for help.

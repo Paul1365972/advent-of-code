@@ -65,7 +65,12 @@ enum Direction {
 }
 
 impl Direction {
-    const ALL: [Direction; 4] = [Direction::East, Direction::South, Direction::West, Direction::North];
+    const ALL: [Direction; 4] = [
+        Direction::East,
+        Direction::South,
+        Direction::West,
+        Direction::North,
+    ];
 
     fn to_dir(&self) -> (i32, i32) {
         match self {
