@@ -8,11 +8,11 @@ fn main() {
     let patterns = lines.next().unwrap().split(", ").collect_vec();
     let designs = lines.filter(|line| !line.is_empty()).collect_vec();
 
-    let mut result = 0usize;
+    let mut result = 0u64;
     for design in designs {
         let mut matched = FxHashMap::default();
         let mut buffer = FxHashMap::default();
-        matched.insert("".to_owned(), 1usize);
+        matched.insert("".to_owned(), 1u64);
         let mut temp = String::new();
         while !matched.is_empty() {
             for (partial, possibilities) in matched.drain() {

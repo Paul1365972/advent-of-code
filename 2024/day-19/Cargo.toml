@@ -14,3 +14,8 @@ path = "src/part1.rs"
 [[bin]]
 name = "part2"
 path = "src/part2.rs"
+
+
+[[bin]]
+name = "part2_optimized"
+path = "src/part2_optimized.rs"
