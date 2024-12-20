@@ -98,3 +98,7 @@ Also the second problem where I had to ask for help.
 Part 1: 20 min, Part 2: 5 min
 
 I very much expected the second problem to be pathfinding with the twist that the map changes every step, but just having to check until a path is blocked was kind of disappointing.
+
+## Day  19
+
+Part 1: 10 min, Part 2: 3 min
