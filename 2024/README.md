@@ -102,3 +102,7 @@ I very much expected the second problem to be pathfinding with the twist that th
 ## Day  19
 
 Part 1: 10 min, Part 2: 3 min
+
+## Day  19
+
+Part 1: 20 min, Part 2: 5 min
