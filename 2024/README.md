@@ -103,6 +103,12 @@ I very much expected the second problem to be pathfinding with the twist that th
 
 Part 1: 10 min, Part 2: 3 min
 
-## Day  19
+## Day  20
 
 Part 1: 20 min, Part 2: 5 min
+
+## Day 21
+
+Part 1: 25 min, Part 2: Unsolved
+
+First problem that is too difficult to solve, I now have a (hopefully working) solution using dynamic programming in my head, but I have already spent too much time on this problem.
