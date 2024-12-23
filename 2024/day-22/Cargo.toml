@@ -1,13 +1,11 @@
 [package]
-name = "day-template"
+name = "day-22"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 itertools = "0.13"
 rustc-hash = "2.1"
-regex = "1.11"
-strum = { version = "0.26", features = ["derive"] }
 
 [[bin]]
 name = "part1"

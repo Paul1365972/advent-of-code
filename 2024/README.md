@@ -112,3 +112,7 @@ Part 1: 20 min, Part 2: 5 min
 Part 1: 25 min, Part 2: Unsolved
 
 First problem that is too difficult to solve, I now have a (hopefully working) solution using dynamic programming in my head, but I have already spent too much time on this problem.
+
+## Day 22
+
+Part 1: 8 min, Part 2: 10 min
