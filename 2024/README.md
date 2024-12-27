@@ -122,3 +122,11 @@ Part 1: 8 min, Part 2: 10 min
 Part 1: 10 min, Part 2: 10 min
 
 First Advent of Code challenge I stayed awake for, 6 am is an awful time to solve these problems, luckily this one was really easy!
+
+## Day 24
+
+Part 1: 15 min, Part 2: Unsolved
+
+## Day 25
+
+Part 1: 30 min, Part 2: Locked
