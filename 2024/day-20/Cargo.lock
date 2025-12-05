@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "day-template"
+name = "adventofcode-2024-day-template"
 version = "0.1.0"
 dependencies = [
  "itertools",

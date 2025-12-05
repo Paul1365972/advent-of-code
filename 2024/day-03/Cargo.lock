@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "day-03"
+name = "adventofcode-2024-day-03"
 version = "0.1.0"
 dependencies = [
  "regex",

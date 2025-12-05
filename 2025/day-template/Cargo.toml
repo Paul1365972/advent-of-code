@@ -1,11 +1,13 @@
 [package]
-name = "adventofcode-2024-day-06"
+name = "adventofcode-2025-day-template"
 version = "0.1.0"
-edition = "2021"
+edition = "2024"
 
 [dependencies]
-itertools = "0.13"
+itertools = "0.14"
 rustc-hash = "2.1"
+regex = "1.12"
+strum = { version = "0.27", features = ["derive"] }
 
 [[bin]]
 name = "part1"
