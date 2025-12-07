@@ -1,0 +1,18 @@
+[package]
+name = "adventofcode-2025-day-02"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+itertools = "0.14"
+rustc-hash = "2.1"
+regex = "1.12"
+strum = { version = "0.27", features = ["derive"] }
+
+[[bin]]
+name = "part1"
+path = "src/part1.rs"
+
+[[bin]]
+name = "part2"
+path = "src/part2.rs"
