@@ -31,3 +31,11 @@ Part 2: 5 min
 
 Also quite an easy puzzle.
 I really enjoy the ones based on 2d grids, though I am always a bit unsatisfied with the parsing approaches I tend to use for thses kinds of problems.
+
+## Day 5
+
+Part 1: 5 min
+Part 2: 10 min
+
+Again a suprisingly easy puzzle; now I wonder why the first two days took so long again.
+I could (should) have used an interval tree instead of my O(n^2) solution, but from the input size it was obviously not needed, so I just chose the approach that was fastest/easiest to implement.
