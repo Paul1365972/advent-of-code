@@ -18,4 +18,8 @@ Tried to go for the most efficient algorithm immediately, could have saved some 
 
 ## Day 3
 
-Part 1:
+Part 1: 10 min
+Part 2: 10 min
+
+Easiest day yet, simply because there were no edge cases to account for.
+Although my functional approach to find the maximum is pretty cursed and unfortunate.
