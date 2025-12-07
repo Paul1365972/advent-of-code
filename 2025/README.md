@@ -23,3 +23,11 @@ Part 2: 10 min
 
 Easiest day yet, simply because there were no edge cases to account for.
 Although my functional approach to find the maximum is pretty cursed and unfortunate.
+
+## Day 4
+
+Part 1: 10 min
+Part 2: 5 min
+
+Also quite an easy puzzle.
+I really enjoy the ones based on 2d grids, though I am always a bit unsatisfied with the parsing approaches I tend to use for thses kinds of problems.
