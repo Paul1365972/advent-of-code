@@ -39,3 +39,18 @@ Part 2: 10 min
 
 Again a suprisingly easy puzzle; now I wonder why the first two days took so long again.
 I could (should) have used an interval tree instead of my O(n^2) solution, but from the input size it was obviously not needed, so I just chose the approach that was fastest/easiest to implement.
+
+## Day 6
+
+Part 1: 10 min
+Part 2: 15 min
+
+I dislike the "puzzles" like today that are just about parsing the input, those are always a bit annoying to deal with.
+
+## Day 7
+
+Part 1: 10 min
+Part 2: 5 min
+
+Awsome puzzle, first solution for Part 1 was already so good, that part 2 only needed minmal changes.
+Anticipating what the next part might require you to do and then having correctly predicted it always feels nice.
