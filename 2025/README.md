@@ -54,3 +54,9 @@ Part 2: 5 min
 
 Awsome puzzle, first solution for Part 1 was already so good, that part 2 only needed minmal changes.
 Anticipating what the next part might require you to do and then having correctly predicted it always feels nice.
+
+## Day 8
+
+Another fun one, this time I used `petgraph` to simplify some of the work.
+You most likely wouldn't even need to use a Union-Find datastructure, but I simultaneously realized that it is most likely the optimal solution for this puzzle so I could not not use it.
+Yet I didn't want to write it myself as it is quite cumbersome.
