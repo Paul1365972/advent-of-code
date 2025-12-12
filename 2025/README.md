@@ -57,6 +57,18 @@ Anticipating what the next part might require you to do and then having correctl
 
 ## Day 8
 
+Part 1: ?
+Part 2: ?
+
 Another fun one, this time I used `petgraph` to simplify some of the work.
 You most likely wouldn't even need to use a Union-Find datastructure, but I simultaneously realized that it is most likely the optimal solution for this puzzle so I could not not use it.
 Yet I didn't want to write it myself as it is quite cumbersome.
+
+## Day 9
+
+Part 1: 10 min
+Part 2: 40 min
+
+The most fun puzzle yet.
+I have to reiterate how enjoyable these 2d problems are, especially part 2.
+There are most likely tons of valid optimization strategies, but I instantly thought of compressing the distinct x and y values such that our rectangle search can skip nearly all tiles, really proud of that one.
